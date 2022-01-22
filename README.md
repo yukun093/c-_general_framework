@@ -1,4 +1,4 @@
-# c-_general_framework
+# cpp_general_framework
 reference from https://blog.csdn.net/yangming2466/article/details/83280511
 
 值得推荐的C/C++框架和库
